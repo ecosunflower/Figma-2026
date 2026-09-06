@@ -1,0 +1,70 @@
+.body {
+    background-color: #ffffff;
+	with: 1600px;
+	height: 920px;
+
+} 
+
+.medi-logo {
+
+	width: 95,25px;
+	high: 40,61;
+	text-align: left;
+	font-family: Monstserrat;
+	line-height: 48px;
+	letter-spacing: -2%;
+}
+
+.content {
+	display: inline-block;
+	width: 40%;
+    vertical-align: middle;
+    margin-left: 90px;
+    margin-top: 80px; 
+}
+
+h1 {
+	widht: 495px;
+	height: 152px;
+	font-style: ramaraja;
+	line-hight: 76px;
+	letter-spacing: 2%;
+	color: #1B0A42;
+}
+
+
+p {
+	font-family: roboto;
+	font-size: 20px;
+	line-height: 32px;
+	letter-spacing: 2%;
+	text-align: left;
+	color: 9a9a9a;
+}
+
+button {
+	background-color: #8fdc00;
+  	color: white;
+  	padding: 12px 24px;
+  	border: none;
+	width: 87,57px
+	height: 27.82px; 
+	text-align: left; 
+	font-family: roboto;
+	font-weight: bold: 
+	font-size: 16px;
+	Line height: 32px;
+	Letterspacing: 2%;
+}
+
+.woman-meditation {
+
+	width: 756px;
+	height: 638px;
+	color: #ffffff;
+    display: inline-block;
+    width: 45%;
+    vertical-align: middle;
+
+
+}
