@@ -1,4 +1,4 @@
-.body {
+body {
     background-color: #ffffff;
 	with: 1600px;
 	height: 920px;
@@ -10,7 +10,10 @@
 	width: 95,25px;
 	high: 40,61;
 	text-align: left;
-	font-family: Monstserrat;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
 	line-height: 48px;
 	letter-spacing: -2%;
 }
@@ -34,7 +37,12 @@ h1 {
 
 
 p {
-	font-family: roboto;
+	font-family: "Roboto", sans-serif;
+ 	font-optical-sizing: auto;
+ 	font-weight: normal;
+	font-style: normal;
+  	font-variation-settings:
+    "wdth" 100;
 	font-size: 20px;
 	line-height: 32px;
 	letter-spacing: 2%;
