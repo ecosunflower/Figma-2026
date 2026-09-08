@@ -8,7 +8,7 @@ body {
 .medi-logo {
 
 	width: 95.25px;
-	hight: 40.61px;
+	height: 40.61px;
 	text-align: left;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
@@ -59,11 +59,11 @@ button {
   	color: white;
   	padding: 12px 24px;
   	border: none;
-	width: 87.57px
+	width: 87.57px;
 	height: 27.82px; 
 	text-align: left; 
 	font-family: roboto;
-	font-weight: bold: 
+	font-weight: bold;
 	font-size: 16px;
 	line-height: 32px;
 	letter-spacing: 2px;
